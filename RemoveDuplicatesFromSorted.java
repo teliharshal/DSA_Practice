@@ -22,6 +22,7 @@ public class RemoveDuplicatesFromSorted{
 //        System.out.println(st);
 //        System.out.println(Arrays.toString(arr));
 
+
         //Two Pointers Approach
         int i=0;
         for(int j=1;j<arr.length;j++){
